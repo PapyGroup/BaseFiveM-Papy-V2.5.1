@@ -1,0 +1,33 @@
+**En plus des MAJ de la V2.4**
+
+Lien vidéo : Lien de présentation : https://www.dailymotion.com/video/x7z0esi
+
+30 janvier 2021 - V2.5
+```css
+- Ajout d'un syteme de fourriere 
+- Ajout d'un systeme de braquage de banque complexe
+- Ajout du job boulanger (entreprise)
+- Ajout d'un système du prostitution (PNJ près du stripclub)
+- Modification du job gouvernement + ajout mapping
+- Ajout d'un systeme carcéral complexe et un mapping digne de ce nom! (position + mapping + activité)
+- Ajout d'un médecin pnj si aucun ambulancier n'est connecté. 
+- Ajout du systeme judiciare (tribunal + métiers)
+- Ajout de télévisions fonctionnels (gouvernement, tribunal...) a config vous même ;)
+- Ajout d'un farm maritime (Job Recycleur Marin)
+- Ajout job secondaire Amazon (livreur)
+- Mise a jour du job Water and Power (changement de position)
+- Ajout d'un systeme d'assurance de tout vos vehicules
+- Ajout d'un job shériff au nord de l'ile
+- Ajout d'une pharmacie en centre-ville
+- Ajout pour police et sheriff une zone de stockage (dans leur brigade) de pièces à convictions.
+```
+5-6 février 2021 - V2.5.1
+```css
+- Ajout du job Chauffeur Formule1 (Gérer des course + entreprise)
+- Ajout du job Militaire
+- Ajout du job Journaliste
+- Ajout d'un systeme de Go Fast
+- Modif du mapping gouvernement et du lieu de présence
+- Modification global des concessionnaires ( plus pnj mais job ! + de RP)
+- Fix de bugs mineurs 
+```
